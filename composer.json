@@ -1,0 +1,43 @@
+{
+"repositories":[
+	{ 
+		"type": "git",
+		"url": "https://gitlab.dexunzhenggu.cn/composer/mjc.git"
+	},
+	{
+		"type": "git",
+		"url": "https://gitlab.dexunzhenggu.cn/composer/orm.git"
+	},
+	{
+		"type": "git",
+		"url": "https://gitlab.dexunzhenggu.cn/composer/queue.git"
+	},
+	{
+		"type": "git",
+		"url": "https://gitlab.dexunzhenggu.cn/composer/redis.git"
+	},
+	{
+		"type": "git",
+		"url": "https://gitlab.dexunzhenggu.cn/composer/helper.git"
+	},
+	{
+		"type": "git",
+		"url": "https://gitlab.dexunzhenggu.cn/composer/middleware.git"
+	},
+	{
+		"type": "git",
+		"url": "https://gitlab.dexunzhenggu.cn/composer/servicesdk.git"
+	}
+
+],
+"require": {
+	"mrstock/mjc": "dev-master",
+	"mrstock/orm": "dev-master",
+	"mrstock/queue": "dev-master",
+	"mrstock/redis": "dev-master",
+	"mrstock/helper": "dev-master",
+	"mrstock/middleware": "dev-master",
+	"mrstock/servicesdk": "dev-master",
+	"vlucas/phpdotenv": "^3.5"
+}
+}
