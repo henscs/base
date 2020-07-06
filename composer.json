@@ -1,4 +1,15 @@
 {
+	"name": "henscs/base",
+	"description": "base",
+	"type": "prohect",
+	"license": "MIT",
+	"authors": [
+		{
+			"name": "henscs",
+			"email": "henscs@outlook.com"
+		}
+	],
+	"minimum-stability": "dev",
 "repositories":[
 	{ 
 		"type": "git",
